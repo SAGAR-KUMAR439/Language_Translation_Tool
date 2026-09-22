@@ -1,8 +1,8 @@
-# CodeAlpha Language Translation Tool
+# Language Translation Tool
 
 ## ?? Project Overview
 
-This project is a Language Translation Tool developed as part of the CodeAlpha Artificial Intelligence Internship.
+This project is a Language Translation Tool developed as part of the Artificial Intelligence Internship.
 
 The application allows users to enter text, select a source language and a target language, and translate the entered text into the selected language.
 
